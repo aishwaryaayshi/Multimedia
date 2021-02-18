@@ -1,0 +1,144 @@
+SplineFontDB: 3.2
+FontName: Untitled4
+FullName: Untitled4
+FamilyName: Untitled4
+Weight: Regular
+Copyright: Copyright (c) 2021, acer
+UComments: "2021-2-17: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 754 875504325 10282]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1613570279
+ModificationTime: 1613572036
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 27 27 9
+BeginChars: 256 1
+
+StartChar: uni0096
+Encoding: 150 150 0
+Width: 1000
+Flags: HO
+LayerCount: 2
+Fore
+SplineSet
+91 681 m 1028
+554 486 m 1
+ 554 486 515 417 503 429 c 0
+ 491 441 485 480 485 480 c 25
+ 539 504 l 25
+ 485 480 l 25
+ 503 429 l 25
+ 485 480 l 25
+ 539 504 l 25
+ 554 486 l 1
+512 543 m 25
+ 554 486 l 25
+ 503 429 l 25
+ 554 486 l 25
+ 512 567 l 25
+ 485 586 442 616.351239669 442 616.351239669 c 1
+ 512 543 l 25
+262 441 m 1
+ 262 441 373 381 370 387 c 0
+ 367 393 361 480 364 495 c 0
+ 367 510 262 441 262 441 c 1
+262 441 m 1
+ 262 441 367 381 370 387 c 0
+ 373 393 262 441 262 441 c 1
+370 387 m 25
+ 364 474 l 25
+ 364 474 367 495 364 495 c 0
+ 361 495 368 429 370 387 c 25
+364 495 m 25
+ 262 441 l 25
+ 364 495 l 25
+508 405 m 1024
+  Spiro
+    508 405 {
+    0 0 z
+  EndSpiro
+442 616.351239669 m 1
+ 442 616.351239669 424 249 418 261 c 0
+ 412 273 442 616.351239669 442 616.351239669 c 1
+  Spiro
+    442 616.351 v
+    437.12 521.718 o
+    426.878 347.637 o
+    418 261 o
+    421.545 358.304 o
+    434.457 527.044 o
+    0 0 z
+  EndSpiro
+418 261 m 25
+ 418 261 151 435 142 435 c 0
+ 133 435 310 329 418 261 c 25
+  Spiro
+    418 261 v
+    348.564 306.034 o
+    217.433 389.966 o
+    142 435 o
+    185.469 405.055 o
+    296.57 336.256 o
+    0 0 z
+  EndSpiro
+142 435 m 25
+ 142 435 433 617.702479339 442 616.351239669 c 0
+ 451 615 259 506 142 435 c 25
+  Spiro
+    142 435 v
+    217.647 482.236 o
+    360.356 570.015 o
+    442 616.351 o
+    394.317 584.568 o
+    273.641 513.192 o
+    0 0 z
+  EndSpiro
+91 681 m 25
+ 817 690 l 25
+ 817 621 l 17
+ 442 616.351239669 l 0
+ 91 612 l 9
+ 91 681 l 25
+  Spiro
+    91 681 v
+    817 690 v
+    817 621 v
+    442 616.351 o
+    91 612 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
